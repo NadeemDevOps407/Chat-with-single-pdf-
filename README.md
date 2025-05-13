@@ -70,7 +70,7 @@ Make sure to replace `your_openai_api_key` and `your_huggingface_api_key` with t
 
 Once everything is set up, you can run the Streamlit app using the following command:
 
-## streamlit run app.py
+#### streamlit run app.py
 
 This will start the app, and you can access it via the browser at `http://localhost:8501`. From there, you can upload PDF files and ask questions based on the content of those files.
 
