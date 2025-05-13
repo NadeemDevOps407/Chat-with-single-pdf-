@@ -16,7 +16,7 @@ This is a simple Streamlit app that allows users to chat with a PDF document. Yo
 
 First, create a virtual environment to isolate the dependencies for this project. Run the following command in your terminal:
 
-## python -m venv myenv
+#### python -m venv myenv
 
 This will create a `myenv` directory containing the virtual environment.
 
@@ -108,3 +108,4 @@ pip install -r requirements.txt
 This should install all the necessary libraries.
 
 - **API Key Issues**: If you get errors related to the API key, make sure that you've added the keys correctly to the `.env` file and that the keys are valid.
+ 
