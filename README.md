@@ -60,8 +60,8 @@ This project uses the **OpenAI** API and **Hugging Face** API for embedding and 
 
 To securely store your API keys and other sensitive information, create a `.env` file in the root directory of the project. Add the following content to the `.env` file:
 
-## OPENAI_API=your_openai_api_key
-## HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_key
+##### OPENAI_API=your_openai_api_key
+##### HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_key
 
 
 Make sure to replace `your_openai_api_key` and `your_huggingface_api_key` with the actual keys you obtained in step 4.
